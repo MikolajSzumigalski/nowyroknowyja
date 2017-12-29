@@ -1,0 +1,14 @@
+{
+    "cytaty":[
+        {
+            "author": "Mark Twain",
+            "image": "img/marktwain.jpg",
+            "cytat": "Aby zerwać z nawykiem, wyrób sobie inny, który go wymaże."
+        },
+         {
+            "author": "Mark Twain",
+            "image": "img/marktwain.jpg",
+            "cytat": "Spędziłem większość życia martwiąc się o rzeczy, które nigdy się nie wydarzyły"
+        }
+    ]
+}
