@@ -9,6 +9,12 @@
             "author": "Mark Twain",
             "image": "img/marktwain.jpg",
             "cytat": "Spędziłem większość życia martwiąc się o rzeczy, które nigdy się nie wydarzyły"
+        },
+        {
+            "author": "Paulo Coelho",
+            "image": "img/paulocoelho.png",
+            "cytat": "To możliwość spełnienia marzeń sprawia, że życie jest tak fascynujące."
         }
+        
     ]
 }
