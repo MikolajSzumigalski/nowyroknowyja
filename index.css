@@ -2,14 +2,10 @@
     font-family: 'Courgette', cursive;
     color: black;
 }
-
-html,
 body {
     height: 100%;
     background-image: url(img/background.jpg);
-    background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: center bottom;
 }
 
 img {
